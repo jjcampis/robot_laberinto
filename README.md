@@ -3,8 +3,9 @@ Este proyecto de robot laberinto contiene el codigo base para testear los sensor
 
 ## En la carpeta de fritzing:
 
-Se encuentra el proyecto de fritzing, así como las partes que se usaron para realizar el circuito y también se encuentra el software en caso de necesitar.
+Se encuentra el proyecto de fritzing, así como las partes que se usaron para realizar el circuito.
 Además allí se encuentra la foto del esquema de conexión.
+
 ![Esquema de conexion](https://github.com/jjcampis/robot_laberinto/blob/main/Fotos/conexion_laberinto.png?raw=true)
 
 ## Códigos
